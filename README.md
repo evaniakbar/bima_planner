@@ -12,4 +12,5 @@ If you are using Krakow eclipsing binary catalog, please refer to J.M. Kreiner, 
 Notes: If the code return a warning: "Only one minimum found for {obj}, cannot plot light curve" then you must input a longer time of observation.
 
 Result example: 
-![example](https://github.com/user-attachments/assets/13956f9b-589c-43bf-a28f-df1809b88b7b)
+
+<img src="https://github.com/user-attachments/assets/13956f9b-589c-43bf-a28f-df1809b88b7b" width="600"/>
