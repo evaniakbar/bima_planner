@@ -8,3 +8,5 @@ The codes will compute next time of primary minima during any given observing ti
 - bima_ephem_3.ipynb: calculate ephemerides from user's input (multiple object in a csv table).
 
 If you are using Krakow eclipsing binary catalog, please refer to J.M. Kreiner, 2004, Acta Astronomica, vol. 54, pp 207-210.
+
+Notes: If the code return a warning: "Only one minimum found for {obj}, cannot plot light curve" then you must input a longer time of observation.
